@@ -5,7 +5,7 @@ Currently studying B.Tech in ComputerScience
 
 ---
 
-### Tech Stact
+### Tech Stat
 
 - Languages: `c`, `C++`,`JavaScript`, `Java` 
 - Web: `HTML`, `CSS`

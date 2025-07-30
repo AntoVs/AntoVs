@@ -5,15 +5,18 @@ Currently studying B.Tech in ComputerScience
 
 ---
 
-### Tech Stack
+### Tech Stact
 
-- 💻 Languages: `c`, `C++`,`JavaScript`, `Java` 
-- 🌐 Web: `HTML`, `CSS`
-- ⚙️ Tools: `Linux`, `Git`, `neovim`
+- Languages: `c`, `C++`,`JavaScript`, `Java` 
+- Web: `HTML`, `CSS`
+- Tools: `Linux`, `Git`, `neovim`
+- OS : ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1E1E2E?style=flat-square&logo=arch-linux&logoColor=skyblue) ![CachyOS](https://img.shields.io/badge/CachyOS-1A1A1A?style=for-the-badge&logo=arch-linux&logoColor=cyan)
+
+
 
 ---
 
-### 🔗Connect With Me
+### Connect With Me
 
 - [Website]
 - [Email](mailto:anto_vs@outlook..com)
@@ -28,12 +31,12 @@ Currently studying B.Tech in ComputerScience
 
 ---
 
-### Ahemmm
+### Thing I do
 
-- 🔧 I break things just to fix them better ,(actually its worser)
-- 🐧 Linux lover and r/unixporn lurker
-- 🎯 I use Arch btw
-
+- I break things just to fix them better ,(actually it breaks even more)
+- Linux for life
+- I use Arch btw
+- loves ricing my distro
 ---
 
 > “Benevolent dictator? No, I'm just lazy. I try to manage by not making decisions and letting things occur naturally. That's when you get the best results.” ― Linus Torvalds
